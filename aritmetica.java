@@ -24,5 +24,8 @@ public class aritmetica {
     public double division(double num1, double num2) {//ANDREA REBECA YUCRA TOVAR
         return num1 / num2;
     }
+    public double resta (double num1, double num2){//STEPHANY ARIAN IGNACIO PAREDES
+        return num1-num2;
+    }
 
 }

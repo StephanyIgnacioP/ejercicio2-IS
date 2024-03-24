@@ -13,5 +13,8 @@ public class Main {
 	
 	int respDiv = aritmetica.division(4.3, 5); //ANDREA REBECA YUCRA TOVAR
         System.out.println("Respuesta division 4.3 / 5 = " + respDiv);
+
+	int respRest =aritmetica.resta(3,17);//STEPHANY ARIAN IGNACIO PAREDES
+	System.out.println("Respuesta resta 3-17 = " + respRest)
     }
 }

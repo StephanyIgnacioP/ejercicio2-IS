@@ -10,5 +10,8 @@ public class Main {
 
         int respMulti = aritmetica.multiplicacion(4, 20); //SHIRLEY MARIA CUSIQUISPE MOLLE
         System.out.println("Respuesta suma 4 * 20 = " + respMulti); 
+
+        int respResta = aritmetica.resta(10, 5);
+        System.out.println("Respuesta de resta 10 - 5 = " + respResta); //ALAN MENECES FLORES
     }
 }
